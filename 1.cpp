@@ -27,6 +27,7 @@ string tobin(int a) {
         ans = sum(ans, "0000001");
     }
     return ans;
+
 }
 
 string sum(string a, string b) {
